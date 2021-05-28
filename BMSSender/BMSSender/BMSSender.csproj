@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Battery.cs" />
     <Compile Include="BatteryInformationSender.cs" />
+    <Compile Include="BMSConstants.cs" />
     <Compile Include="ISender.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

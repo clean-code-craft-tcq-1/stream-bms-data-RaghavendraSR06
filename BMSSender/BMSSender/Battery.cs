@@ -2,8 +2,8 @@
 {
     public class Battery
     {
-        public static int Temperature { get; set; }
+        public int Temperature { get; set; }
 
-        public static int ChargeState { get; set; }
+        public int ChargeState { get; set; }
     }
 }

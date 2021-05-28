@@ -13,12 +13,12 @@ namespace BMSSender
                 for (int i = 0; i < 10; i++)
                 {
                     System.Threading.Thread.Sleep(5000);
-                   
-                     FetchBatteryData();
+
+                    Battery battery = FetchBatteryParamters();
 
                     StringBuilder sb = new StringBuilder();
-                    sb.Append($"Charge State: {Battery.ChargeState} ");
-                    sb.Append($"Temprature: {Battery.Temperature}");
+                    sb.Append($"Charge State: {battery.ChargeState} ");
+                    sb.Append($"Temprature: {battery.Temperature}");
                     Console.WriteLine(sb);
                 }
             }
@@ -28,11 +28,13 @@ namespace BMSSender
             }
         }
 
-        private static void FetchBatteryData()
+        public static Battery FetchBatteryParamters()
         {
             System.Random randomNumber = new System.Random();
-            Battery.ChargeState = randomNumber.Next(2, 10);
-            Battery.Temperature = randomNumber.Next(10, 50);         
+            Battery batteryParameter = new Battery();
+            batteryParameter.ChargeState = randomNumber.Next(BMSConstants.MinChargeState, BMSConstants.MaxChargeState);
+            batteryParameter.Temperature = randomNumber.Next(BMSConstants.MinTemperature, BMSConstants.MaxTemperature);
+            return batteryParameter;
         }
     }
 }

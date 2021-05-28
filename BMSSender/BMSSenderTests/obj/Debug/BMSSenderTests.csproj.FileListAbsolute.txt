@@ -1,0 +1,17 @@
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\BMSSenderTests.dll
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\BMSSenderTests.pdb
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\BMSSender.exe
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\BMSSender.pdb
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\BMSSender.exe.config
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\obj\Debug\BMSSenderTests.csprojAssemblyReference.cache
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\obj\Debug\BMSSenderTests.csproj.CoreCompileInputs.cache
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\obj\Debug\BMSSenderTests.csproj.CopyComplete
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\obj\Debug\BMSSenderTests.dll
+C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSenderTests\obj\Debug\BMSSenderTests.pdb
