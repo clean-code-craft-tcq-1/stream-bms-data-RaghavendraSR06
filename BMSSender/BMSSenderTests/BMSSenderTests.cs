@@ -17,7 +17,7 @@ namespace BMSSenderTests
         public void WhenFetchBatteryParamtersCalled_ThenReturnValidBatteryTemperatureReading()
         {
             Battery result = BatteryInformationSender.FetchBatteryParamters();
-            Assert.IsTrue(result.ChargeState > BMSConstants.MinTemperature && result.ChargeState < BMSConstants.MaxTemperature);
+            Assert.IsTrue(result.Temperature > BMSConstants.MinTemperature && result.Temperature < BMSConstants.MaxTemperature);
         }
     }
 }
