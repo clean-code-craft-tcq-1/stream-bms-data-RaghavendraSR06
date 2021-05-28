@@ -1,7 +1,0 @@
-C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSender\bin\Debug\BMSSender.exe.config
-C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSender\bin\Debug\BMSSender.exe
-C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSender\bin\Debug\BMSSender.pdb
-C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSender\obj\Debug\BMSSender.csprojAssemblyReference.cache
-C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSender\obj\Debug\BMSSender.csproj.CoreCompileInputs.cache
-C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSender\obj\Debug\BMSSender.exe
-C:\Users\abq1kor\source\repos\stream-bms-data-RaghavendraSR06\BMSSender\BMSSender\obj\Debug\BMSSender.pdb
